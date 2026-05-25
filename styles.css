@@ -1,9 +1,10 @@
 body {
     font-family: Roboto;
 }
-.hero-text {
+.logo-text {
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: 900;
 }
 
 li{
@@ -13,4 +14,8 @@ li{
 
 .top{
     background-color: black;
+}
+
+li{
+    list-style-type: none;
 }
