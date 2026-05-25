@@ -18,6 +18,8 @@ li{
 
 .top{
     background-color: black;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 li{
@@ -34,4 +36,5 @@ li{
 .menu{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
