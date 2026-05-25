@@ -23,3 +23,15 @@ li{
 li{
     list-style-type: none;
 }
+
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+}
