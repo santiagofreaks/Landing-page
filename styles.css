@@ -43,3 +43,14 @@ li{
     color: #F9FAF8;
     font-weight: 900;
 }
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dummy{
+    width: 400px;
+    height: 200px;
+}
