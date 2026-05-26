@@ -67,3 +67,17 @@ li{
     font-size: medium;
     margin-bottom: 5%;
 }
+
+.mid-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.info-text{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
