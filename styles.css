@@ -75,6 +75,13 @@ li{
     margin-top: 5%;
 }
 
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 .info-text{
     font-size: 36px;
     color: #1F2937;
@@ -90,4 +97,8 @@ li{
 
 .boxes {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 26px;
+    margin-top: 25px;
 }
