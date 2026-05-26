@@ -81,3 +81,13 @@ li{
     font-weight: 900;
 }
 
+.box{
+    border: 3px black solid;
+    border-radius: 10px;
+    width: 180px;
+    height: 180px;
+}
+
+.boxes {
+    display: flex;
+}
